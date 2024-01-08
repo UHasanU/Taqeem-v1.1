@@ -32,7 +32,7 @@ taqeem.set_columns_to_display("C", "D", "K")
 - The margin length
 - The picture (Not supported right now)
 ```python
-taqeem.add_title_page("تقييمات الفيزياء", font="Aerial", font_size=22.5, margins=1, )
+taqeem.add_title_page("تقييمات الفيزياء", font="Aerial", font_size=22.5, margins=1)
 ```
 
 5. Add the taqeemat; you can also optionally adjust the following:
